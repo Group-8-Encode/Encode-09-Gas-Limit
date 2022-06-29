@@ -30,5 +30,6 @@ https://docs.soliditylang.org/en/latest/types.html#bytes-and-string-as-arrays
 ### References
 https://github.com/wissalHaji/solidity-coding-advices/blob/master/best-practices/be-careful-with-loops.md
 # Homework
+* Create Github Issues with your questions about this lesson
 * Read the references
 * Finish the weekend project if you couldn’t so far
